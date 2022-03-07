@@ -1,1 +1,1 @@
-# bootstrap-responsive-layout-practice
+# Bootstrap-responsive-layout-practice
